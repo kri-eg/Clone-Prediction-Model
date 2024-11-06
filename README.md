@@ -1,4 +1,3 @@
-#Loan Payment Difficulties Prediction
 This project aims to predict whether a client will experience payment difficulties on a loan based on detailed information provided at the time of loan application, as well as data on previous loan applications. Using Python libraries and a machine learning model, we achieved a prediction accuracy of 92% with an F1 score of 0.14 by applying SMOTE to balance the dataset.
 
 Table of Contents Project Overview Dataset Overview Objective Model and Methodology Evaluation Metrics Results How to Run Dependencies File Structure Contributing License Project Overview In this project, we use machine learning to build a binary classification model that can predict the likelihood of a loan applicant encountering payment difficulties. By analyzing key features such as loan type, demographic details, financial attributes, and previous borrowing history, the model helps in identifying high-risk clients.
